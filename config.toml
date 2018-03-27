@@ -9,7 +9,7 @@ disableKinds=["RSS"]
 [params]
   description = '<!--[-->Website guy focused on increasing visibility, owner of <a href="https://dzines.co.uk">Dzines Digital</a> <!--]--><br />
                 <!--[-->Web development, SEO, Video.<!--]-->'
-  logo = "fa-cube"
+  logo = "fa-cubes"
   copyright = "Untitled"
 
 [[params.social]]
