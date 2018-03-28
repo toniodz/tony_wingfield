@@ -7,7 +7,8 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = '<!--[-->The Website guy providing freelance Websites, SEO and Video. Focused on helping small businesses achieve their goals, increasing visibility and connecting client messages with the right audience. <!--]--><br />
+  description = '<!--[-->The Website guy providing freelance Websites, SEO and Video.<!--]--><br />
+<!--[-->Focused on helping small businesses achieve their goals, increasing visibility and connecting client messages with the right audience.<!--]--><br />
                 <!--[-->Owner of <a href="https://dzines.co.uk">Dzines Digital</a><!--]-->'
   logoimage = "/images/tony-wingfield-logo.png"
   copyright = "Tony Wingfield"
