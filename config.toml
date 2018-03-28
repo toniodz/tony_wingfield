@@ -11,7 +11,6 @@ disableKinds=["RSS"]
                 <!--[-->Owner of <a href="https://dzines.co.uk">Dzines Digital</a><!--]-->'
   logoimage = "/images/tony-wingfield-logo.png"
   copyright = "Tony Wingfield"
-  description = "Site stuff for being a good site with internet tubez."
 
 [[params.social]]
   medium = "twitter"
