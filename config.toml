@@ -1,10 +1,15 @@
-baseurl = "http://example.org"
+baseurl = "http://tonywingfield.co.uk"
 title = "Tony Wingfield"
 theme = "dimension"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 disableKinds=["RSS"]
+
+  # Link custom assets relative to /static
+  custom_css = ["/css/custom.css"]
+  custom_js  = []
+  favicon    = "favicon.ico"
 
 [params]
   description = '<!--[-->The Website guy providing freelance Websites, SEO and Video.<!--]--><br />
